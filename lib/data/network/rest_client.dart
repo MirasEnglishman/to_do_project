@@ -1,5 +1,5 @@
-import 'package:asyl_project/data/models/quote.dart';
-import 'package:asyl_project/data/models/task.dart';
+import 'package:to_do_project/data/models/quote.dart';
+import 'package:to_do_project/data/models/task.dart';
 import 'package:dio/dio.dart';
 import 'package:injectable/injectable.dart';
 import 'package:retrofit/retrofit.dart';

@@ -1,8 +1,8 @@
-import 'package:asyl_project/presentation/auth/bloc/auth_bloc.dart';
-import 'package:asyl_project/presentation/auth/bloc/auth_state.dart';
-import 'package:asyl_project/presentation/auth/registration_screen.dart';
-import 'package:asyl_project/presentation/home/home_screen.dart';
-import 'package:asyl_project/service_locator.dart';
+import 'package:to_do_project/presentation/auth/bloc/auth_bloc.dart';
+import 'package:to_do_project/presentation/auth/bloc/auth_state.dart';
+import 'package:to_do_project/presentation/auth/registration_screen.dart';
+import 'package:to_do_project/presentation/home/home_screen.dart';
+import 'package:to_do_project/service_locator.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

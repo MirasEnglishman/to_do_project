@@ -1,7 +1,7 @@
-import 'package:asyl_project/data/repositories/quotes_repository.dart';
-import 'package:asyl_project/presentation/quote/bloc/quote_state.dart';
+import 'package:to_do_project/data/repositories/quotes_repository.dart';
+import 'package:to_do_project/presentation/quote/bloc/quote_state.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:asyl_project/data/models/quote.dart';
+import 'package:to_do_project/data/models/quote.dart';
 import 'package:injectable/injectable.dart';
 
 

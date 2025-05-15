@@ -1,8 +1,8 @@
 
-import 'package:asyl_project/app.dart';
-import 'package:asyl_project/firebase_options.dart';
-import 'package:asyl_project/service_locator.dart';
-import 'package:asyl_project/utlis/shared_preference.dart';
+import 'package:to_do_project/app.dart';
+import 'package:to_do_project/firebase_options.dart';
+import 'package:to_do_project/service_locator.dart';
+import 'package:to_do_project/utlis/shared_preference.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';

@@ -1,6 +1,6 @@
 
 import 'package:equatable/equatable.dart';
-import 'package:asyl_project/data/models/quote.dart';
+import 'package:to_do_project/data/models/quote.dart';
 
 // Состояние для хранения данных о цитатах
 class QuoteState extends Equatable {

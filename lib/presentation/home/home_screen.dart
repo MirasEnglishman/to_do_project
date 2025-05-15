@@ -1,7 +1,7 @@
-import 'package:asyl_project/presentation/notification/notification_screen.dart';
-import 'package:asyl_project/presentation/profile/profile_screen.dart';
-import 'package:asyl_project/presentation/quote/quote_screen.dart';
-import 'package:asyl_project/presentation/tasks/tasks_screen.dart';
+import 'package:to_do_project/presentation/notification/notification_screen.dart';
+import 'package:to_do_project/presentation/profile/profile_screen.dart';
+import 'package:to_do_project/presentation/quote/quote_screen.dart';
+import 'package:to_do_project/presentation/tasks/tasks_screen.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 

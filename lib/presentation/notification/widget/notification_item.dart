@@ -1,4 +1,4 @@
-import 'package:asyl_project/data/models/app_notification.dart';
+import 'package:to_do_project/data/models/app_notification.dart';
 import 'package:flutter/material.dart';
 
 class NotificationItem extends StatelessWidget {

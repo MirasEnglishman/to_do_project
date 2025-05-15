@@ -1,5 +1,5 @@
-import 'package:asyl_project/data/models/task.dart';
-import 'package:asyl_project/data/network/rest_client.dart';
+import 'package:to_do_project/data/models/task.dart';
+import 'package:to_do_project/data/network/rest_client.dart';
 import 'package:injectable/injectable.dart';
 
 abstract class TasksRepository {

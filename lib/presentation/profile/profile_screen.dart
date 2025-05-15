@@ -1,7 +1,7 @@
-import 'package:asyl_project/presentation/auth/bloc/auth_bloc.dart';
-import 'package:asyl_project/presentation/auth/login_screen.dart';
-import 'package:asyl_project/service_locator.dart';
-import 'package:asyl_project/utlis/shared_preference.dart';
+import 'package:to_do_project/presentation/auth/bloc/auth_bloc.dart';
+import 'package:to_do_project/presentation/auth/login_screen.dart';
+import 'package:to_do_project/service_locator.dart';
+import 'package:to_do_project/utlis/shared_preference.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 

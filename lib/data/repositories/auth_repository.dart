@@ -1,5 +1,5 @@
-import 'package:asyl_project/data/models/user.dart';
-import 'package:asyl_project/utlis/shared_preference.dart';
+import 'package:to_do_project/data/models/user.dart';
+import 'package:to_do_project/utlis/shared_preference.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:injectable/injectable.dart';
 

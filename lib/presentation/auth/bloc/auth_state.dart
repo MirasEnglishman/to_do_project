@@ -1,4 +1,4 @@
-import 'package:asyl_project/data/models/user.dart';
+import 'package:to_do_project/data/models/user.dart';
 import 'package:equatable/equatable.dart';
 
 

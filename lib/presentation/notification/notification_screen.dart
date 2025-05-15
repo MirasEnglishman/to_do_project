@@ -1,5 +1,5 @@
-import 'package:asyl_project/data/models/app_notification.dart';
-import 'package:asyl_project/presentation/notification/widget/notification_item.dart';
+import 'package:to_do_project/data/models/app_notification.dart';
+import 'package:to_do_project/presentation/notification/widget/notification_item.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 
