@@ -1,0 +1,104 @@
+{"navigation": {
+    "tasks": "Задачи",
+    "quote": "Цитаты",
+    "notifications": "Уведомления",
+    "profile": "Профиль"
+  },
+   "notifications": {
+    "title": "Уведомления",
+    "mark_all_read": "Отметить все как прочитанные",
+    "empty": {
+      "title": "Нет уведомлений",
+      "message": "У вас пока нет уведомлений"
+    },
+    "types": {
+      "reminder": "Напоминание",
+      "completion": "Выполнено",
+      "system": "Новая функция"
+    },
+    "messages": {
+      "deadline_tomorrow": "Завтра крайний срок для задачи \"{task}\"",
+      "task_completed": "Вы выполнили задачу \"{task}\"",
+      "new_feature": "Теперь вы можете делиться своими задачами с друзьями",
+      "reminder": "Не забудьте \"{task}\" сегодня"
+    }
+  },
+  "profile": {
+    "title": "Профиль",
+    "settings": "Настройки",
+    "not_authorized": "Не авторизован",
+    "logout": "Выйти из аккаунта",
+    "statistics": {
+      "title": "Статистика",
+      "completed_tasks": "Выполнено задач",
+      "total_tasks": "Всего задач",
+      "completion_rate": "Выполнено",
+      "progress": "Прогресс",
+      "of": "из"
+    },
+    "menu": {
+      "language": "Язык"
+    },
+    "languages": {
+      "english": "Английский",
+      "russian": "Русский",
+      "kazakh": "Казахский"
+    }
+  },
+  "quote": {
+    "title": "Вдохновение",
+    "random_quote": "Случайная цитата",
+    "error": {
+      "title": "Ошибка: {error}",
+      "retry": "Повторить"
+    },
+    "empty": {
+      "message": "Цитаты не найдены",
+      "refresh": "Обновить"
+    },
+    "navigation": {
+      "previous": "Предыдущая цитата",
+      "next": "Следующая цитата",
+      "favorite": "Добавить в избранное"
+    },
+    "count": "{current} из {total}",
+    "add": {
+      "tooltip": "Добавить новую цитату",
+      "coming_soon": "Функция добавления новой цитаты будет доступна скоро"
+    }
+  },
+  "tasks": {
+    "title": "Мои задачи",
+    "filters": {
+      "all": "Все",
+      "active": "Активные",
+      "completed": "Выполненные"
+    },
+    "empty": "Нет задач",
+    "search": "Поиск"
+  },
+
+  "auth": {
+    "welcome": "Добро пожаловать",
+    "subtitle": "Войдите, чтобы продолжить",
+    "email": {
+      "label": "Email",
+      "error": {
+        "empty": "Пожалуйста, введите email",
+        "invalid": "Пожалуйста, введите корректный email"
+      }
+    },
+    "password": {
+      "label": "Пароль",
+      "error": {
+        "empty": "Пожалуйста, введите пароль",
+        "short": "Пароль должен содержать минимум 6 символов"
+      }
+    },
+    "login": "Войти",
+    "register": {
+      "prompt": "Нет аккаунта?",
+      "action": "Зарегистрироваться"
+    }
+  }
+}

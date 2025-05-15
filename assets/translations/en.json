@@ -1,0 +1,106 @@
+{ 
+  "navigation": {
+    "tasks": "Tasks",
+    "quote": "Quotes",
+    "notifications": "Notifications",
+    "profile": "Profile"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "mark_all_read": "Mark all as read",
+    "empty": {
+      "title": "No notifications",
+      "message": "You don't have any notifications yet"
+    },
+    "types": {
+      "reminder": "Reminder",
+      "completion": "Completed",
+      "system": "New feature"
+    },
+    "messages": {
+      "deadline_tomorrow": "Tomorrow is the deadline for task",
+      "task_completed": "You completed the task ",
+      "new_feature": "Now you can share your tasks with friends",
+      "reminder": "Don't forget today"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "settings": "Settings",
+    "not_authorized": "Not authorized",
+    "logout": "Sign out",
+    "statistics": {
+      "title": "Statistics",
+      "completed_tasks": "Completed tasks",
+      "total_tasks": "Total tasks",
+      "completion_rate": "Completed",
+      "progress": "Progress",
+      "of": "of"
+    },
+    "menu": {
+      "language": "Language"
+    },
+    "languages": {
+      "english": "English",
+      "russian": "Russian",
+      "kazakh": "Kazakh"
+    }
+  },
+  "quote": {
+    "title": "Inspiration",
+    "random_quote": "Random quote",
+    "error": {
+      "title": "Error: {error}",
+      "retry": "Retry"
+    },
+    "empty": {
+      "message": "No quotes found",
+      "refresh": "Refresh"
+    },
+    "navigation": {
+      "previous": "Previous quote",
+      "next": "Next quote",
+      "favorite": "Add to favorites"
+    },
+    "count": "{current} of {total}",
+    "add": {
+      "tooltip": "Add new quote",
+      "coming_soon": "New quote addition feature will be available soon"
+    }
+  },
+
+  "tasks": {
+    "title": "My Tasks",
+    "filters": {
+      "all": "All",
+      "active": "Active",
+      "completed": "Completed"
+    },
+    "empty": "No tasks",
+    "search": "Search"
+  },
+
+  "auth": {
+    "welcome": "Welcome Back",
+    "subtitle": "Sign in to continue",
+    "email": {
+      "label": "Email",
+      "error": {
+        "empty": "Please enter your email",
+        "invalid": "Please enter a valid email"
+      }
+    },
+    "password": {
+      "label": "Password",
+      "error": {
+        "empty": "Please enter your password",
+        "short": "Password must be at least 6 characters"
+      }
+    },
+    "login": "Sign In",
+    "register": {
+      "prompt": "Don't have an account?",
+      "action": "Register"
+    }
+  }
+}

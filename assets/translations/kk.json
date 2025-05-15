@@ -1,0 +1,105 @@
+{
+"navigation": {
+    "tasks": "Тапсырмалар",
+    "quote": "Дәйексөздер",
+    "notifications": "Хабарландырулар",
+    "profile": "Профиль"
+  },
+   "notifications": {
+    "title": "Хабарландырулар",
+    "mark_all_read": "Барлығын оқылған деп белгілеу",
+    "empty": {
+      "title": "Хабарландырулар жоқ",
+      "message": "Сізде әзірше хабарландырулар жоқ"
+    },
+    "types": {
+      "reminder": "Еске салу",
+      "completion": "Орындалды",
+      "system": "Жаңа мүмкіндік"
+    },
+    "messages": {
+      "deadline_tomorrow": "\"{task}\" тапсырмасының соңғы мерзімі ертең",
+      "task_completed": "Сіз \"{task}\" тапсырмасын орындадыңыз",
+      "new_feature": "Енді тапсырмаларыңызбен достарыңызбен бөлісе аласыз",
+      "reminder": "Бүгін \"{task}\" ұмытпаңыз"
+    }
+  },
+  "profile": {
+    "title": "Профиль",
+    "settings": "Параметрлер",
+    "not_authorized": "Авторизацияланбаған",
+    "logout": "Шығу",
+    "statistics": {
+      "title": "Статистика",
+      "completed_tasks": "Орындалған ",
+      "total_tasks": "Барлық ",
+      "completion_rate": "Орындалды",
+      "progress": "Үрдіс",
+      "of": "/"
+    },
+    "menu": {
+      "language": "Тіл"
+    },
+    "languages": {
+      "english": "Ағылшын",
+      "russian": "Орыс",
+      "kazakh": "Қазақ"
+    }
+  },
+  "quote": {
+    "title": "Шабыт",
+    "random_quote": "Кездейсоқ дәйексөз",
+    "error": {
+      "title": "Қате: {error}",
+      "retry": "Қайталау"
+    },
+    "empty": {
+      "message": "Дәйексөздер табылмады",
+      "refresh": "Жаңарту"
+    },
+    "navigation": {
+      "previous": "Алдыңғы дәйексөз",
+      "next": "Келесі дәйексөз",
+      "favorite": "Таңдаулыларға қосу"
+    },
+    "count": "{current} / {total}",
+    "add": {
+      "tooltip": "Жаңа дәйексөз қосу",
+      "coming_soon": "Жаңа дәйексөз қосу функциясы жақында қолжетімді болады"
+    }
+  },
+  "tasks": {
+    "title": "Менің тапсырмаларым",
+    "filters": {
+      "all": "Барлығы",
+      "active": "Белсенді",
+      "completed": "Аяқталған"
+    },
+    "empty": "Тапсырмалар жоқ",
+    "search": "Іздеу"
+  },
+
+  "auth": {
+    "welcome": "Қош келдіңіз",
+    "subtitle": "Жалғастыру үшін кіріңіз",
+    "email": {
+      "label": "Email",
+      "error": {
+        "empty": "Email енгізіңіз",
+        "invalid": "Жарамды email енгізіңіз"
+      }
+    },
+    "password": {
+      "label": "Құпия сөз",
+      "error": {
+        "empty": "Құпия сөзді енгізіңіз",
+        "short": "Құпия сөз кемінде 6 таңбадан тұруы керек"
+      }
+    },
+    "login": "Кіру",
+    "register": {
+      "prompt": "Аккаунтыңыз жоқ па?",
+      "action": "Тіркелу"
+    }
+  }
+}
